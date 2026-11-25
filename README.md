@@ -13,7 +13,7 @@ The only requirement that is not built into python is "requests". to set it up t
 
 HOW TO RUN IT.
 
-to run this project make sure you did the requirements, after, first run local_test_services.py and keep it running, then run exposure_checker.py and you should get an output of 3 open and 1 closed.
+to run this project make sure you did the requirements, after, first run local_test_services.py and keep it running, then run exposure_checker.py in a seprate terminal and you should get an output of 3 open and 1 closed.
 
 EXPECTED RESULT.
 
