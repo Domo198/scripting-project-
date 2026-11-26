@@ -9,7 +9,7 @@ these files wil be located in the same folder as the code
 
 REQUIREMENTS.
 
-The only requirement that is not built into python is "requests". to set it up type (python -m pip install requests) into the terminal. You can type it onto vscodes terminal when opening the project folder or if you are using a diffrent IDE like i did with pycharm, you type the command into your computers terminal 
+The only requirement that is not built into python is "requests". to set it up type (python -m pip install requests) into the terminal. You can type it on to vscodes terminal when opening the project folder or if you are using a diffrent IDE like i did with pycharm, you type the command into your computers terminal 
 
 HOW TO RUN IT.
 
